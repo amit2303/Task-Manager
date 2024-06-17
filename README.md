@@ -42,7 +42,7 @@ This repository contains a Flutter project.The project is a simple task manageme
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/flutter-developer-task.git
+   git clone https://github.com/amit2303/Task-Manager
 2. Navigate to the project directory::
    ```sh
    cd Task-Manager
