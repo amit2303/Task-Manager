@@ -4,18 +4,16 @@
 
 This repository contains a Flutter project.The project is a simple task management app featuring user authentication, managing data and CRUD operations on tasks using Firebase Authentication and firestore .
 
+## Features
 
-### User Authentication
 
-- **Firebase Authentication:**
-  - Implement email and password login and registration.
-  - Ensure proper form validation for both login and registration forms.
-
-### Firestore Integration
+- **Authentication:**
+  - email and password login and registration with form validation.
+  - Multiple User Login
 
 - **Task Management:**
   - Allow users to create, read, update, and delete tasks in Firestore.
-  - Each task should have the following properties:
+  - Each task has the following properties:
     - **Title:** A short description of the task.
     - **Description:** A detailed explanation of the task.
     - **Deadline:** The date and time when the task is due.
