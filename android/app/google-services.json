@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "237161310344",
+    "project_id": "task-manager-cedab",
+    "storage_bucket": "task-manager-cedab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:237161310344:android:2e439e137328384eed173d",
+        "android_client_info": {
+          "package_name": "com.amit23.taskmanager"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtb1IOy8W7gL-0A5gwSD16aZs9dckDwew"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
